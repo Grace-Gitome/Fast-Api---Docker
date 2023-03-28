@@ -1,0 +1,2 @@
+Learn how to deploy models and maintain them to ensure that we are having correct predictions, 
+we will learn how to package our model and deploy it using streamlit, flask, and fast api.  
