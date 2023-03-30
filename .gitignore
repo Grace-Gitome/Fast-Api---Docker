@@ -8,3 +8,5 @@ instance/*
 #Flask.Python Stact
 #Byte-compiled/optimized/DLL files
 __pycache__/
+
+templates/
