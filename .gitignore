@@ -1,0 +1,10 @@
+venv/
+
+#Flask
+instance/*
+!instance/.gitignore
+.webassets-cache
+
+#Flask.Python Stact
+#Byte-compiled/optimized/DLL files
+__pycache__/
