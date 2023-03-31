@@ -10,3 +10,5 @@ instance/*
 __pycache__/
 
 templates/
+Data/ 
+model.pkl
